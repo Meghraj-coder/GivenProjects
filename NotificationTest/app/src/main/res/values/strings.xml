@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification Test</string>
+    <string name="channel_name">Corona Notification</string>
+    <string name="channel_description">This Channel sends notification related to Corona Viruses. This is a test creation.</string>
+</resources>
